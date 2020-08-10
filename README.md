@@ -3,3 +3,4 @@
 
  Foram desenvolvidos os seguintes projetos até o momento:
   - Semáforo LED
+  - Botão Intermitente (LED regulado por um botão)
